@@ -1,8 +1,6 @@
 # p5js-game
 A game developed for programming logic at the university
 
-Systems and Design
-
 Here are that I would like to add to the game as a minimum viable product(MVP). 
 When an item is checkmarked, it means the basic foundation is complete for the MVP.
 
