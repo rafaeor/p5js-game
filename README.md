@@ -14,5 +14,7 @@ When an item is checkmarked, it means the basic foundation is complete for the M
 - [x] Health and stats
 
 Special Thanks:
-Coding with Mr Ward - YouTube channel, for the shooter tutorial.
-"clam" - For the main character art- https://opengameart.org/content/2d-jrpg-dot-character
+
+- Coding with Mr Ward - YouTube channel, for the shooter tutorial.
+
+- "clam" - For the main character art- https://opengameart.org/content/2d-jrpg-dot-character
