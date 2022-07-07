@@ -1,5 +1,3 @@
-//https://youtu.be/HZ2QDBtgYnE
-
 //var for menu highlight
 var xCursor, yCursor;
 
