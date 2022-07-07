@@ -17,4 +17,6 @@ Special Thanks:
 
 - Coding with Mr Ward - YouTube channel, for the shooter tutorial.
 
-- "clam" - For the main character art- https://opengameart.org/content/2d-jrpg-dot-character
+- "clam" - https://opengameart.org/content/2d-jrpg-dot-character
+
+- cynicmusic - https://opengameart.org/content/battle-theme-a
