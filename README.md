@@ -8,10 +8,14 @@ When an item is checkmarked, it means the basic foundation is complete for the M
 
 \### Project status
 
-- [x] Design
-- [x] Walking / pathfinding
-- [x] Context-menu / Actions
-- [x] Health and stats
+- [x] Main menu
+- [x] Mouse
+  - [x] Walking
+  - [x] Shooting
+- [x] Health
+- [ ] Enemy variation
+- [x] Projectile
+- [x] Music
 
 Special Thanks:
 
