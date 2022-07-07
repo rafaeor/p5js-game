@@ -13,10 +13,12 @@ When an item is checkmarked, it means the basic foundation is complete for the M
   - [x] Walking
   - [x] Shooting
 - [x] Health
-- [ ] Enemy variation
+- [x] Enemy variation
 - [x] Projectile
 - [x] Music
 - [x] Player and Enemy image
+- [x] Hearth and Score on the screen
+- [x] Power Ups
 
 Special Thanks:
 
