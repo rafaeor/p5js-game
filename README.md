@@ -16,6 +16,7 @@ When an item is checkmarked, it means the basic foundation is complete for the M
 - [ ] Enemy variation
 - [x] Projectile
 - [x] Music
+- [x] Player and Enemy image
 
 Special Thanks:
 
