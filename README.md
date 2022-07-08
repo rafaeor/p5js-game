@@ -1,4 +1,4 @@
-🇧🇷🇧🇷🇧🇷
+🇧🇷 🇧🇷 🇧🇷
 
 # p5js-game
 A game developed for programming logic at the university.
