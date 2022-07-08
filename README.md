@@ -2,6 +2,7 @@
 
 # p5js-game
 A game developed for programming logic at the university.
+
 You are an astronaut and your duty is to destroy the asteroids that have entered the solar orbit. That's what's written at the time you press enter in "Play"
 The game proposal is to aim your curiosity about space, solar orbit, asteroids and space travel.
 
