@@ -347,19 +347,19 @@ function instrucoes() {
   // As instruções
   background(150);
   fill(170);
-  rect(50, 100, 330, 250);
+  rect(50, 100*screen_s, 330, 250*screen_s);
   fill(0, 255, 0);
   stroke(0, 200, 0);
-  text("Instruções", width / 2 - 25, height / 2 - 50);
+  text("Instruções", width / 2 - 25*screen_s, height / 2 - 50*screen_s);
   text(
     "Utilize o mouse para controlar o personagem. Os cliques irão atirar",
-    width / 3,
-    height / 2 + 20
+    width / 3*screen_s,
+    height / 2 + 20*screen_s
   );
   text(
     "Não deixe que os inimigos cheguem até em baixo da tela",
-    width / 7,
-    height / 2 + 40
+    width / 7*screen_s,
+    height / 2 + 40*screen_s
   );
   //fim background
 }
@@ -367,14 +367,14 @@ function creditos() {
   // Os creditos
   background(150);
   fill(170);
-  rect(50, 100, 330, 250);
+  rect(50, 100*screen_s, 330, 250*screen_s);
   fill(0, 255, 0);
   stroke(0, 200, 0);
-  text("Creditos", width / 2 - 25, height / 2 - 50);
+  text("Creditos", width / 2 - 25*screen_s, height / 2 - 50*screen_s);
   text(
     "Aluno: Rafael Sales de Almeida Cavalcanti Turma: 3C",
-    width / 7,
-    height / 2 + 20
+    width / 7*screen_s,
+    height / 2 + 20*screen_s
   );
   text("Tema: Não definido", width / 7, height / 2 + 40);
 }
