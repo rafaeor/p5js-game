@@ -221,7 +221,7 @@ function menu() {
   fill(170, 60, 70);
   rect(100*screen_s, 100*screen_s, 200*screen_s/1.2, 250*screen_s);
   textSize(18);
-  text("Asteroid Fall", width/2+100, 100);
+  text("Asteroid Fall", width/2-50, 100);
   //play button
   botoes(150, 120, "  Jogar");
   //instruction button
