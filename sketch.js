@@ -376,7 +376,7 @@ function creditos() {
     width / 7,
     height / 2 + 20
   );
-  text("Tema: Não definido", width / 7, height / 2 + 40);
+  text("Tema: EF03CI07", width / 7, height / 2 + 40);
 }
 var tempo = 570;
 var spawn = 0
