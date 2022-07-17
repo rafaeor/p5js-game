@@ -353,8 +353,8 @@ function instrucoes() {
   text("Instruções", width / 2 - 25, height / 2 - 50);
   text(
     "Utilize o mouse para controlar o personagem. Os cliques irão atirar",
-    width / 3*,
-    height / 2 + 20*
+    width / 3,
+    height / 2 + 20
   );
   text(
     "Não deixe que os inimigos cheguem até em baixo da tela",
