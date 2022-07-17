@@ -193,6 +193,7 @@ function keyPressed() {
     character_stats[0] = 3;
     character_stats[1] = 8;
     character_stats[2] = 10;
+    gametime=0;
     spawn = 0;
   }
 }
