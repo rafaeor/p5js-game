@@ -220,7 +220,7 @@ function menu() {
   background(60);
   fill(170, 60, 70);
   rect(100*screen_s, 100*screen_s, 200*screen_s/1.2, 250*screen_s);
-  text("Asteroid Fall", width / 2 - 25*screen_s, height / 2 - 50*screen_s);
+  text("Asteroid Fall", width/2, 100);
   //play button
   botoes(150, 120, "  Jogar");
   //instruction button
