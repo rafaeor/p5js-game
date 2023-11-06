@@ -1,17 +1,20 @@
-🇧🇷 🇧🇷 🇧🇷
-
 # p5js-game
-A game developed for programming logic at the university.
+A game developed for programming logic at the university in Brazil Language.
 
+## Controls 🎮
+    Arrow keys: movement
+    Enter: confirm
+
+## Description 🌌
 You are an astronaut and your duty is to destroy the asteroids that have entered the solar orbit. That's what's written at the time you press enter in "Jogar".
 
 The game proposal is to aim your curiosity about space, solar orbit, asteroids and space travel.
 
-https://rafaeor.github.io/p5js-game/
 
-Here are that I would like to add to the game as a minimum viable product(MVP). 
-When an item is checkmarked, it means the basic foundation is complete for the MVP.
+Play the game [here](https://rafaeor.github.io/p5js-game/) 🎮
 
+## Minimum Viable Product (MVP) Features ✨
+Here's a list of completed features for the MVP:
 \### Project status
 
 - [x] Main menu
@@ -26,10 +29,11 @@ When an item is checkmarked, it means the basic foundation is complete for the M
 - [x] Hearth and Score on the screen
 - [x] Power Ups
 
-Special Thanks:
+## Special Thanks 🙌
+I would like to extend my gratitude to the following:
 
-- Coding with Mr Ward - YouTube channel, for the shooter tutorial.
+- **Coding with Mr Ward** YouTube channel for the shooter tutorial 🎥
+- **"clam"** for providing the 2D JRPG dot character resources 🎮
+- **cynicmusic** for the amazing battle theme 🎶
 
-- "clam" - https://opengameart.org/content/2d-jrpg-dot-character
-
-- cynicmusic - https://opengameart.org/content/battle-theme-a
+Feel free to contribute and provide feedback to make the game even better! 😄
